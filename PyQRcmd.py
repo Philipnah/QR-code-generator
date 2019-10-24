@@ -20,4 +20,4 @@ try:
         os.system("del " + arg2)
 
 except:
-    print("You need to specify the string you want as a QR-code and the name of the png")
+    print("You need to specify the string you want as a QR-code and the name of the png\nFor example\nPython PyQRcmd.py link.com qr.png")
